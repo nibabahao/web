@@ -5,6 +5,7 @@ function aa(){}
 var div = document.createElement("div");
 	div.innerHTML="webpack";
 	div.classList.add("hello");
+	div.classList.add("hello12321");
 var myIcon = new Image();
     myIcon.src = bg;
     div.appendChild(myIcon);
